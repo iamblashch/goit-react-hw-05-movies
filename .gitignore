@@ -5,6 +5,7 @@
 .idea/
 
 # dependencies
+/vscode
 /node_modules
 /.pnp
 .pnp.js
